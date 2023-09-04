@@ -164,6 +164,7 @@ cache_id = response.url
 
 url = cache_id
 
+#Create wizard request POST data in the arbor alert tab using web browser developer mode or Python as below format
 
 data={
 "id": "alerts_all",
